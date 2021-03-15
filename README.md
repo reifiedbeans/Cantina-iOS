@@ -27,9 +27,11 @@ Cantina is a personal cookbook for cocktails. You are able to browse through coc
 
 **Required Must-have Stories**
 
+* User is greeted to an app with a great design
 * User can browse a list of cocktails
 * User can favorite cocktails
 * User can view favorited cocktails
+* User can switch between views via a tab bar
 * User can view details (ingredients, image, etc.) for a cocktail
 
 **Optional Nice-to-have Stories**
