@@ -24,20 +24,20 @@ Cantina is a personal cookbook for cocktails. You are able to browse through coc
 
 **Required Must-have Stories**
 
-* User is greeted to an app with a great design
-* User can browse a list of cocktails
-* User can favorite cocktails
-* User can view favorited cocktails
-* User can switch between views via a tab bar
-* User can view details (ingredients, image, etc.) for a cocktail
+- [x] User is greeted to an app with a great design
+- [x] User can browse a list of cocktails
+- [ ] User can favorite cocktails
+- [x] User can view favorited cocktails
+- [x] User can switch between views via a tab bar
+- [ ] User can view details (ingredients, image, etc.) for a cocktail
 
 **Optional Nice-to-have Stories**
 
-* User can share a cocktail recipe through the OS share sheet
-* User can search for a cocktail
-* User can filter cocktails by ingredient
-* User can browse favorite cocktails offline
-* User can add notes to a cocktail
+- [ ] User can share a cocktail recipe through the OS share sheet
+- [ ] User can search for a cocktail
+- [ ] User can filter cocktails by ingredient
+- [ ] User can browse favorite cocktails offline
+- [ ] User can add notes to a cocktail
 
 ### 2. Screen Archetypes
 
@@ -103,3 +103,5 @@ Base URL: [https://www.thecocktaildb.com/api/json/v1/1/](https://www.thecocktail
   `GET`     | /lookup.php | gets the details of a cocktail by id
   `GET`     | /images/media/drink/<id>.jpg | gets the image for a cocktail
 
+## Sprint 1 Milestone
+<img src='https://media0.giphy.com/media/hZHgtKhIGOFZ7kpl4K/giphy.gif' title='Sprint 1 Milestone' width='250' alt='Sprint 1 Milestone' />
