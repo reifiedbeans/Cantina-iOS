@@ -26,10 +26,10 @@ Cantina is a personal cookbook for cocktails. You are able to browse through coc
 
 - [x] User is greeted to an app with a great design
 - [x] User can browse a list of cocktails
-- [ ] User can favorite cocktails
+- [x] User can favorite cocktails
 - [x] User can view favorited cocktails
 - [x] User can switch between views via a tab bar
-- [ ] User can view details (ingredients, image, etc.) for a cocktail
+- [x] User can view details (ingredients, image, etc.) for a cocktail
 
 **Optional Nice-to-have Stories**
 
@@ -105,3 +105,6 @@ Base URL: [https://www.thecocktaildb.com/api/json/v1/1/](https://www.thecocktail
 
 ## Sprint 1 Milestone
 <img src='https://media0.giphy.com/media/hZHgtKhIGOFZ7kpl4K/giphy.gif' title='Sprint 1 Milestone' width='250' alt='Sprint 1 Milestone' />
+
+## Sprint 2 Milestone
+<img src='https://media1.giphy.com/media/z6zrh5nV3DZsLEOYUH/giphy.gif' title='Sprint 2 Milestone' width='250' alt='Sprint 2 Milestone' />
