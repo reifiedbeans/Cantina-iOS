@@ -33,10 +33,10 @@ Cantina is a personal cookbook for cocktails. You are able to browse through coc
 
 **Optional Nice-to-have Stories**
 
-- [ ] User can share a cocktail recipe through the OS share sheet
-- [ ] User can search for a cocktail
+- [x] User can share a cocktail recipe through the OS share sheet
+- [x] User can search for a cocktail
 - [ ] User can filter cocktails by ingredient
-- [ ] User can browse favorite cocktails offline
+- [x] User can browse favorite cocktails offline
 - [ ] User can add notes to a cocktail
 
 ### 2. Screen Archetypes
