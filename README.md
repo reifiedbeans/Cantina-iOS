@@ -110,4 +110,4 @@ Base URL: [https://www.thecocktaildb.com/api/json/v1/1/](https://www.thecocktail
 <img src='https://media1.giphy.com/media/z6zrh5nV3DZsLEOYUH/giphy.gif' title='Sprint 2 Milestone' width='250' alt='Sprint 2 Milestone' />
 
 ## Sprint 3 Milestone
-<img src='https://media0.giphy.com/media/wQ6fMsiD71H4hdMEGb/giphy.gif' title='Sprint 3 Milestone' width='250' alt='Sprint 3 Milestone' />
+<img src='https://media.giphy.com/media/wQ6fMsiD71H4hdMEGb/giphy.gif' title='Sprint 3 Milestone' width='250' alt='Sprint 3 Milestone' />
