@@ -35,7 +35,7 @@ Cantina is a personal cookbook for cocktails. You are able to browse through coc
 
 - [x] User can share a cocktail recipe through the OS share sheet
 - [x] User can search for a cocktail
-- [ ] User can filter cocktails by ingredient
+- [x] User can filter cocktails by ingredient
 - [x] User can browse favorite cocktails offline
 - [ ] User can add notes to a cocktail
 
@@ -111,3 +111,6 @@ Base URL: [https://www.thecocktaildb.com/api/json/v1/1/](https://www.thecocktail
 
 ## Sprint 3 Milestone
 <img src='https://media.giphy.com/media/wQ6fMsiD71H4hdMEGb/giphy-downsized.gif' title='Sprint 3 Milestone' width='250' alt='Sprint 3 Milestone' />
+
+## Sprint 4 Milestone
+<img src='https://media.giphy.com/media/ngPj6UeiwqQE9ZoLV8/giphy.gif' title='Sprint 3 Milestone' width='250' alt='Sprint 4 Milestone' />
