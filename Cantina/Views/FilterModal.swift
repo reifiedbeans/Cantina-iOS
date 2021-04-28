@@ -24,7 +24,7 @@ struct FilterModal: View {
                             Text(ingredient.name)
                             Spacer()
                             Image(systemName: (selectedIngredients[index].isSelected) ? "checkmark.circle.fill" : "circle")
-                                .foregroundColor(Color.blue)
+                                .foregroundColor(Color.accentColor)
                         }
                     }
                 }
