@@ -114,3 +114,6 @@ Base URL: [https://www.thecocktaildb.com/api/json/v1/1/](https://www.thecocktail
 
 ## Sprint 4 Milestone
 <img src='https://media.giphy.com/media/ngPj6UeiwqQE9ZoLV8/giphy.gif' title='Sprint 3 Milestone' width='250' alt='Sprint 4 Milestone' />
+
+## Walkthrough Video
+https://youtu.be/dsuZq4xuzGU
