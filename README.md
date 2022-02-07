@@ -117,3 +117,7 @@ Base URL: [https://www.thecocktaildb.com/api/json/v1/1/](https://www.thecocktail
 
 ## Walkthrough Video
 https://youtu.be/dsuZq4xuzGU
+  
+----
+
+Copyright 2021 Andrew Davis, Jonathan Huber, and Raymond Truong
